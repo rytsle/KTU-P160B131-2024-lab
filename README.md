@@ -1,11 +1,11 @@
 # R Laboratorinis darbas: duomenų vizualizacija
 
-| Variantas | ecoActCode |
-|------------- | ------------- |
-|20   | 11111111111 |
+|Variantas | ecoActCode|Formatas          |
+|:---------|----------:|:-----------------|
+|999         |     11111111111|https://atvira.sodra.lt/imones/downloads/2023/monthly-2023.json.zip|
 
 
-### 1. Užduotis
+### 2.1 Užduotis
 
 Atsakymas:
 
@@ -13,7 +13,7 @@ Atsakymas:
 
 Išvados:
 
-### 2. Užduotis
+### 2.2 Užduotis
 
 Atsakymas:
 
@@ -22,7 +22,7 @@ Atsakymas:
 Išvados:
 
 
-### 3. Užduotis
+### 2.3 Užduotis
 
 Atsakymas:
 
@@ -31,7 +31,7 @@ Atsakymas:
 Išvados:
 
 
-### 4. Užduotis
+### 3. Užduotis
 
 Shiny R aplikacijos nuotrauka:
 
