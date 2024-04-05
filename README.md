@@ -19,7 +19,7 @@ Atsakymas:
 
 ![atlyginimai](img/2.2_Grafikas.png)
 
-Išvados: Galime matyti, jog UAB NOVA GROUP galimai paskelbė bankrotą, kadangi vidutinis atlygis staigiai krenta ir išlieka vienoje vietoje. Įmonių, kurių grafike linija staigia krenta ar kyla, tačiau yra lygi lyg liniuotė, galima spręsti, kad tam tikrais mėnesiais trūksta duomenų, todėl programa sujungia du nutolusius taškus. Geriausiai sedėsi įmonei UAB REWO, kurios darbuotojų vidutinis atlygis metų gale pakilo daugiau nei dvigubai.
+Išvados: Galime matyti, jog UAB NOVA GROUP galimai paskelbė bankrotą, kadangi vidutinis atlygis staigiai krenta ir išlieka vienoje vietoje. Įmonių, kurių grafike linija staigia krenta ar kyla, tačiau yra lygi lyg liniuotė, galima spręsti, kad tam tikrais mėnesiais trūksta duomenų, todėl programa sujungia du nutolusius taškus. Geriausiai sekėsi įmonei UAB REWO, kurios darbuotojų vidutinis atlygis metų gale pakilo daugiau nei dvigubai.
 
 
 ### 2.3 Užduotis
